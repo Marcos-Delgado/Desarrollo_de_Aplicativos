@@ -1,0 +1,5 @@
+table,th,td {
+    border: rgb(0, 183, 255) 3px solid;
+    border-collapse: collapse;
+    
+}
